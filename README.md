@@ -38,4 +38,8 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
