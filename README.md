@@ -8,6 +8,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/BDivya-2005/Leetcodes/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
@@ -63,4 +64,12 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
