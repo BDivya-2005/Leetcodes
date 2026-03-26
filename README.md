@@ -75,4 +75,8 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
