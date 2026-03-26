@@ -8,6 +8,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/BDivya-2005/Leetcodes/tree/main/0048-rotate-image/) | Medium |
+| [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/BDivya-2005/Leetcodes/tree/main/0048-rotate-image/) | Medium |
+| [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -53,4 +55,12 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
