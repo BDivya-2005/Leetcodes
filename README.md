@@ -49,6 +49,7 @@ All Solution in repository.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/BDivya-2005/Leetcodes/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 ## Matrix
