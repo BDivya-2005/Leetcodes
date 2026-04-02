@@ -18,6 +18,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/BDivya-2005/Leetcodes/tree/main/0048-rotate-image/) | Medium |
+| [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Recursion
@@ -64,6 +66,7 @@ All Solution in repository.
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
+| [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
