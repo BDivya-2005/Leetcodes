@@ -88,6 +88,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0180-consecutive-numbers/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/BDivya-2005/Leetcodes/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [1251-average-selling-price](https://github.com/BDivya-2005/Leetcodes/tree/main/1251-average-selling-price/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
