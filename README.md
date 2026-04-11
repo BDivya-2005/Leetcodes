@@ -87,6 +87,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0180-consecutive-numbers/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/BDivya-2005/Leetcodes/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
