@@ -89,6 +89,7 @@ All Solution in repository.
 | [0180-consecutive-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/BDivya-2005/Leetcodes/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/BDivya-2005/Leetcodes/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0585-investments-in-2016](https://github.com/BDivya-2005/Leetcodes/tree/main/0585-investments-in-2016/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/BDivya-2005/Leetcodes/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1251-average-selling-price](https://github.com/BDivya-2005/Leetcodes/tree/main/1251-average-selling-price/) | Easy |
 | [1321-restaurant-growth](https://github.com/BDivya-2005/Leetcodes/tree/main/1321-restaurant-growth/) | Medium |
