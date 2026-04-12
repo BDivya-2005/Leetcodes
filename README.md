@@ -94,6 +94,7 @@ All Solution in repository.
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/BDivya-2005/Leetcodes/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1251-average-selling-price](https://github.com/BDivya-2005/Leetcodes/tree/main/1251-average-selling-price/) | Easy |
 | [1321-restaurant-growth](https://github.com/BDivya-2005/Leetcodes/tree/main/1321-restaurant-growth/) | Medium |
+| [1527-patients-with-a-condition](https://github.com/BDivya-2005/Leetcodes/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/BDivya-2005/Leetcodes/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
