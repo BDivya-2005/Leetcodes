@@ -13,6 +13,7 @@ All Solution in repository.
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/BDivya-2005/Leetcodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
+| [0228-summary-ranges](https://github.com/BDivya-2005/Leetcodes/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
