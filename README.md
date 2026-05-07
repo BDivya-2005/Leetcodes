@@ -21,6 +21,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/BDivya-2005/Leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
 ## Linked List
@@ -59,6 +60,7 @@ All Solution in repository.
 | [0038-count-and-say](https://github.com/BDivya-2005/Leetcodes/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/BDivya-2005/Leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
