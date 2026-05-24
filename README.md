@@ -66,6 +66,7 @@ All Solution in repository.
 | [0038-count-and-say](https://github.com/BDivya-2005/Leetcodes/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/BDivya-2005/Leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0058-length-of-last-word/) | Easy |
+| [0071-simplify-path](https://github.com/BDivya-2005/Leetcodes/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BDivya-2005/Leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/BDivya-2005/Leetcodes/tree/main/0290-word-pattern/) | Easy |
@@ -128,4 +129,8 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0071-simplify-path](https://github.com/BDivya-2005/Leetcodes/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
