@@ -133,4 +133,9 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/BDivya-2005/Leetcodes/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/BDivya-2005/Leetcodes/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/BDivya-2005/Leetcodes/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
