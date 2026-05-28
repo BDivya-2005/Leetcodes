@@ -14,6 +14,7 @@ All Solution in repository.
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/BDivya-2005/Leetcodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/BDivya-2005/Leetcodes/tree/main/0056-merge-intervals/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BDivya-2005/Leetcodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0228-summary-ranges](https://github.com/BDivya-2005/Leetcodes/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
@@ -37,6 +38,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/BDivya-2005/Leetcodes/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BDivya-2005/Leetcodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
@@ -133,6 +135,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/BDivya-2005/Leetcodes/tree/main/0071-simplify-path/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BDivya-2005/Leetcodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/BDivya-2005/Leetcodes/tree/main/0155-min-stack/) | Medium |
 ## Design
 | Problem Name | Difficulty |
