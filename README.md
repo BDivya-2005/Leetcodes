@@ -41,11 +41,13 @@ All Solution in repository.
 | [0150-evaluate-reverse-polish-notation](https://github.com/BDivya-2005/Leetcodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
+| [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0002-add-two-numbers/) | Medium |
+| [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ All Solution in repository.
 | [0071-simplify-path](https://github.com/BDivya-2005/Leetcodes/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BDivya-2005/Leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
 | [0290-word-pattern](https://github.com/BDivya-2005/Leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
 ## Matrix
@@ -137,6 +140,7 @@ All Solution in repository.
 | [0071-simplify-path](https://github.com/BDivya-2005/Leetcodes/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BDivya-2005/Leetcodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/BDivya-2005/Leetcodes/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
