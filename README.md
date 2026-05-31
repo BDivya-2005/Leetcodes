@@ -34,6 +34,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/BDivya-2005/Leetcodes/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/BDivya-2005/Leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BDivya-2005/Leetcodes/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/BDivya-2005/Leetcodes/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
