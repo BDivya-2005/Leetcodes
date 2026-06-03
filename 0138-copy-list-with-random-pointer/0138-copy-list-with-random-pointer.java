@@ -20,7 +20,6 @@ class Solution {
             return null;
         }
 
-        // Step 1: Insert copied nodes in between original nodes
         Node curr = head;
 
         while (curr != null) {
@@ -32,7 +31,6 @@ class Solution {
             curr = copy.next;
         }
 
-        // Step 2: Assign random pointers
         curr = head;
 
         while (curr != null) {
@@ -44,7 +42,6 @@ class Solution {
             curr = curr.next.next;
         }
 
-        // Step 3: Separate original list and copied list
         curr = head;
         Node dummy = new Node(0);
         Node copyCurr = dummy;
