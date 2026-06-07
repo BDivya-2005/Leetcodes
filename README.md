@@ -155,4 +155,20 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/BDivya-2005/Leetcodes/tree/main/0155-min-stack/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/BDivya-2005/Leetcodes/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/BDivya-2005/Leetcodes/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/BDivya-2005/Leetcodes/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/BDivya-2005/Leetcodes/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
