@@ -76,6 +76,7 @@ All Solution in repository.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BDivya-2005/Leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/BDivya-2005/Leetcodes/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/BDivya-2005/Leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0058-length-of-last-word/) | Easy |
@@ -95,6 +96,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0015-3sum/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BDivya-2005/Leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/BDivya-2005/Leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
@@ -187,4 +189,8 @@ All Solution in repository.
 | [0112-path-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/BDivya-2005/Leetcodes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/BDivya-2005/Leetcodes/tree/main/0226-invert-binary-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BDivya-2005/Leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
