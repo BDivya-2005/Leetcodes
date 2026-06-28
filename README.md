@@ -8,6 +8,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/BDivya-2005/Leetcodes/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/BDivya-2005/Leetcodes/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/BDivya-2005/Leetcodes/tree/main/0049-group-anagrams/) | Medium |
@@ -78,6 +79,7 @@ All Solution in repository.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/BDivya-2005/Leetcodes/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BDivya-2005/Leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/BDivya-2005/Leetcodes/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/BDivya-2005/Leetcodes/tree/main/0049-group-anagrams/) | Medium |
@@ -199,4 +201,8 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/BDivya-2005/Leetcodes/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
