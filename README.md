@@ -90,6 +90,7 @@ All Solution in repository.
 | [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
 | [0290-word-pattern](https://github.com/BDivya-2005/Leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/BDivya-2005/Leetcodes/tree/main/0392-is-subsequence/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ All Solution in repository.
 | [0125-valid-palindrome](https://github.com/BDivya-2005/Leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/BDivya-2005/Leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
+| [0392-is-subsequence](https://github.com/BDivya-2005/Leetcodes/tree/main/0392-is-subsequence/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/BDivya-2005/Leetcodes/tree/main/0392-is-subsequence/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
