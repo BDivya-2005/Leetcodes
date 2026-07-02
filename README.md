@@ -80,6 +80,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/BDivya-2005/Leetcodes/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/BDivya-2005/Leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BDivya-2005/Leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/BDivya-2005/Leetcodes/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/BDivya-2005/Leetcodes/tree/main/0049-group-anagrams/) | Medium |
@@ -156,6 +157,7 @@ All Solution in repository.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/BDivya-2005/Leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/BDivya-2005/Leetcodes/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BDivya-2005/Leetcodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/BDivya-2005/Leetcodes/tree/main/0155-min-stack/) | Medium |
