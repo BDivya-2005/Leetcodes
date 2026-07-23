@@ -23,6 +23,7 @@ All Solution in repository.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
