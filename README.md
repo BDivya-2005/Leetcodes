@@ -24,6 +24,7 @@ All Solution in repository.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0986-interval-list-intersections](https://github.com/BDivya-2005/Leetcodes/tree/main/0986-interval-list-intersections/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ All Solution in repository.
 | [0141-linked-list-cycle](https://github.com/BDivya-2005/Leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/BDivya-2005/Leetcodes/tree/main/0392-is-subsequence/) | Easy |
+| [0986-interval-list-intersections](https://github.com/BDivya-2005/Leetcodes/tree/main/0986-interval-list-intersections/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +226,8 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/BDivya-2005/Leetcodes/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
