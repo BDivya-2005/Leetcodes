@@ -25,6 +25,7 @@ All Solution in repository.
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0986-interval-list-intersections](https://github.com/BDivya-2005/Leetcodes/tree/main/0986-interval-list-intersections/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ All Solution in repository.
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
