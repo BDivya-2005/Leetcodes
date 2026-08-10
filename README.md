@@ -17,6 +17,7 @@ All Solution in repository.
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/BDivya-2005/Leetcodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/BDivya-2005/Leetcodes/tree/main/0056-merge-intervals/) | Medium |
+| [0078-subsets](https://github.com/BDivya-2005/Leetcodes/tree/main/0078-subsets/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BDivya-2005/Leetcodes/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -76,6 +77,7 @@ All Solution in repository.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/BDivya-2005/Leetcodes/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -241,4 +243,5 @@ All Solution in repository.
 | [0039-combination-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/BDivya-2005/Leetcodes/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/BDivya-2005/Leetcodes/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/BDivya-2005/Leetcodes/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
