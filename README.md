@@ -10,6 +10,7 @@ All Solution in repository.
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/BDivya-2005/Leetcodes/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0015-3sum/) | Medium |
+| [0046-permutations](https://github.com/BDivya-2005/Leetcodes/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/BDivya-2005/Leetcodes/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/BDivya-2005/Leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
@@ -233,4 +234,8 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/BDivya-2005/Leetcodes/tree/main/0986-interval-list-intersections/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/BDivya-2005/Leetcodes/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
