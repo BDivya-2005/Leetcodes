@@ -238,4 +238,5 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/BDivya-2005/Leetcodes/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/BDivya-2005/Leetcodes/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
