@@ -23,6 +23,7 @@ All Solution in repository.
 | [0209-minimum-size-subarray-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/BDivya-2005/Leetcodes/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
@@ -138,6 +139,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/BDivya-2005/Leetcodes/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,4 +246,12 @@ All Solution in repository.
 | [0046-permutations](https://github.com/BDivya-2005/Leetcodes/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/BDivya-2005/Leetcodes/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/BDivya-2005/Leetcodes/tree/main/0078-subsets/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
