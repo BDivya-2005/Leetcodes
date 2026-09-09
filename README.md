@@ -7,6 +7,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/BDivya-2005/Leetcodes/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/BDivya-2005/Leetcodes/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0015-3sum/) | Medium |
@@ -74,6 +75,7 @@ All Solution in repository.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BDivya-2005/Leetcodes/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -139,6 +141,7 @@ All Solution in repository.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BDivya-2005/Leetcodes/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
