@@ -31,6 +31,7 @@ All Solution in repository.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0819-most-common-word/) | Easy |
 | [0986-interval-list-intersections](https://github.com/BDivya-2005/Leetcodes/tree/main/0986-interval-list-intersections/) | Medium |
@@ -48,6 +49,7 @@ All Solution in repository.
 | [0290-word-pattern](https://github.com/BDivya-2005/Leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0819-most-common-word/) | Easy |
 ## Linked List
@@ -100,6 +102,7 @@ All Solution in repository.
 | [0414-third-maximum-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0414-third-maximum-number/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## String
@@ -178,6 +181,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -187,6 +191,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
+| [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0819-most-common-word/) | Easy |
 ## Stack
@@ -241,6 +246,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
