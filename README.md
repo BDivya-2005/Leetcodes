@@ -36,6 +36,7 @@ All Solution in repository.
 | [0819-most-common-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0819-most-common-word/) | Easy |
 | [0986-interval-list-intersections](https://github.com/BDivya-2005/Leetcodes/tree/main/0986-interval-list-intersections/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1051-height-checker](https://github.com/BDivya-2005/Leetcodes/tree/main/1051-height-checker/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ All Solution in repository.
 | [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1051-height-checker](https://github.com/BDivya-2005/Leetcodes/tree/main/1051-height-checker/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,4 +294,12 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/BDivya-2005/Leetcodes/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/BDivya-2005/Leetcodes/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
