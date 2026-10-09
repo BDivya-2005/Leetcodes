@@ -31,6 +31,7 @@ All Solution in repository.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/BDivya-2005/Leetcodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0819-most-common-word/) | Easy |
@@ -50,6 +51,7 @@ All Solution in repository.
 | [0290-word-pattern](https://github.com/BDivya-2005/Leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/BDivya-2005/Leetcodes/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/BDivya-2005/Leetcodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0819-most-common-word/) | Easy |
@@ -263,6 +265,7 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/BDivya-2005/Leetcodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
