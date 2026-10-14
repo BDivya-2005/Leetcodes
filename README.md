@@ -32,6 +32,7 @@ All Solution in repository.
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BDivya-2005/Leetcodes/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BDivya-2005/Leetcodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/BDivya-2005/Leetcodes/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/BDivya-2005/Leetcodes/tree/main/0819-most-common-word/) | Easy |
@@ -105,6 +106,7 @@ All Solution in repository.
 | [0414-third-maximum-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0414-third-maximum-number/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/BDivya-2005/Leetcodes/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/BDivya-2005/Leetcodes/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/BDivya-2005/Leetcodes/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -185,6 +187,7 @@ All Solution in repository.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/BDivya-2005/Leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BDivya-2005/Leetcodes/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0561-array-partition](https://github.com/BDivya-2005/Leetcodes/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/BDivya-2005/Leetcodes/tree/main/0621-task-scheduler/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BDivya-2005/Leetcodes/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Simulation
@@ -300,6 +303,7 @@ All Solution in repository.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/BDivya-2005/Leetcodes/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/BDivya-2005/Leetcodes/tree/main/1051-height-checker/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
