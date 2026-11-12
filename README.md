@@ -77,6 +77,7 @@ All Solution in repository.
 | [0204-count-primes](https://github.com/BDivya-2005/Leetcodes/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ All Solution in repository.
 | [0021-merge-two-sorted-lists](https://github.com/BDivya-2005/Leetcodes/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/BDivya-2005/Leetcodes/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0224-basic-calculator](https://github.com/BDivya-2005/Leetcodes/tree/main/0224-basic-calculator/) | Hard |
+| [0509-fibonacci-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ All Solution in repository.
 | [0053-maximum-subarray](https://github.com/BDivya-2005/Leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/BDivya-2005/Leetcodes/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/BDivya-2005/Leetcodes/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +323,8 @@ All Solution in repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/BDivya-2005/Leetcodes/tree/main/0164-maximum-gap/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/BDivya-2005/Leetcodes/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
